@@ -10,7 +10,7 @@ class Whatsapp {
 class CTpolymorphism {
     public static void main(String[] args) {
         Whatsapp w = new Whatsapp();
-        w.send(21);
+        w.send(21); 
         w.send("Heyyy vasudev...");
     }    
 }

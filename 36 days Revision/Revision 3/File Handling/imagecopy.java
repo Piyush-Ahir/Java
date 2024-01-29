@@ -13,7 +13,6 @@ class imagecopy {
         FileOutputStream fout = new  FileOutputStream("C:\\Users\\ADMIN\\Desktop\\456.png");
         fout.write(arr);
         fout.flush();
-
         System.out.println("File copied");
 
     }    

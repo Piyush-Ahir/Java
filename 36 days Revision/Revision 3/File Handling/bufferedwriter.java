@@ -21,6 +21,7 @@ class bufferedwriter{
         FileReader fr = new FileReader(f1);
         BufferedReader br  = new BufferedReader(fr);
         String s1 = br.readLine();
+        
         while (s1 != null) {
             System.out.println(s1);
             s1 = br.readLine();

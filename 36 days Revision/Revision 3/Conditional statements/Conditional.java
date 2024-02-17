@@ -12,7 +12,7 @@ public class Conditional {
         // } else {
         //     System.out.println("not correct !!!");
         // }
-
+ 
         // int x=20;
         // if(x<=85){
         //     System.out.println("hi");            

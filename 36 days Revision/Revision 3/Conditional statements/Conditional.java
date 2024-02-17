@@ -17,7 +17,7 @@ public class Conditional {
         // if(x<=85){
         //     System.out.println("hi");            
         // }
-
+ 
         // int x = 20;
         // int y = 40;
         // if(x!=y){

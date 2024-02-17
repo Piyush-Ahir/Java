@@ -4,7 +4,7 @@ public class Conditional {
         // if (a == 21) {
         // System.out.println("Yes bro it's correct !!!");
         // }
-
+ 
         // int a = 10;
         // int b = 20;
         // if (a >= b) {
@@ -42,7 +42,7 @@ public class Conditional {
 
         int a = 20;
         int b = 10;
-        if (a>=b) {
+        if (a>=b) { 
             System.out.println("hello");
         } else {
             System.out.println("hi");

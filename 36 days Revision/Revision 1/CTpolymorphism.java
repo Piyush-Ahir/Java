@@ -5,7 +5,7 @@ class Whatsapp {
     void send(String txtmsg){
         System.out.println("Sending Message...");
     }
-} 
+}
 
 class CTpolymorphism {
     public static void main(String[] args) {
